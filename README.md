@@ -4,16 +4,16 @@ Weatherly is an Android app that allows users to search for real-time weather in
 
 Features 🚀
 
-Search by City: Enter a city name to get real-time weather updates.
-Current Weather: Displays temperature, humidity, uv, and more.
-Weather Icons: Dynamic icons based on weather conditions.
+Search by City: Enter a city name to get real-time weather updates.<br>
+Current Weather: Displays temperature, humidity, uv, and more.<br>
+Weather Icons: Dynamic icons based on weather conditions.<br>
 
 Technologies Used 🛠️
 
-Kotlin: Programming language used for Android development.
-Jetpack Compose: UI toolkit for building native Android apps.
-OpenWeatherMap API: Provides real-time weather data.
-Coroutines: For managing background tasks asynchronously.
+Kotlin: Programming language used for Android development.<br>
+Jetpack Compose: UI toolkit for building native Android apps.<br>
+OpenWeatherMap API: Provides real-time weather data.<br>
+Coroutines: For managing background tasks asynchronously.<br>
 
 Screenshots 📸
 
